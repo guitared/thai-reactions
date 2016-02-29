@@ -1,11 +1,11 @@
 {
-  "name": "Trump Reactions",
-  "short_name": "Trump Reactions",
+  "name": "Thai Reactions",
+  "short_name": "Thai Reactions",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Replaces emojis in Facebook Reactions by Donald Trump pictures.",
-  "homepage_url": "https://francoisgrante.com",
-  "default_locale": "en",
+  "description": "Replaces emojis in Facebook Reactions by popular thai emoticons.",
+  "homepage_url": "https://guitared.me",
+  "default_locale": "th",
   "icons": {
     "16": "img/icon16.png",
     "48": "img/icon48.png",
