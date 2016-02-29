@@ -5,7 +5,7 @@
   "manifest_version": 2,
   "description": "Replaces emojis in Facebook Reactions by popular thai emoticons.",
   "homepage_url": "https://guitared.me",
-  "default_locale": "th",
+  "default_locale": "en",
   "icons": {
     "16": "img/icon16.png",
     "48": "img/icon48.png",

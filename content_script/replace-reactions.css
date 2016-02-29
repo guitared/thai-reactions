@@ -14,3 +14,27 @@
 ._iuz + div div::before{
   font-size: 12px !important;
 }
+
+.like._iuz + div div::before{
+  content: 'แจ่มมม';
+}
+
+.love._iuz + div div::before{
+  content: 'เหยดดด';
+}
+
+.haha._iuz + div div::before{
+  content: 'หึหึหึหึหึ';
+}
+
+.wow._iuz + div div::before{
+  content: 'อ่าาาาาห์';
+}
+
+.sad._iuz + div div::before{
+  content: 'น้ำตาจิไหล';
+}
+
+.angry._iuz + div div::before{
+  content: 'สาดดดดด';
+}
