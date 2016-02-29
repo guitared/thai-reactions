@@ -31,10 +31,10 @@
   content: 'อ่าาาาาห์';
 }
 
-.sad._iuz + div div::before{
+.sorry._iuz + div div::before{
   content: 'น้ำตาจิไหล';
 }
 
-.angry._iuz + div div::before{
+.anger._iuz + div div::before{
   content: 'สาดดดดด';
 }
