@@ -1,7 +1,16 @@
 .x2 ._iuz {
-  background-image:url("chrome-extension://__MSG_@@extension_id__/img/trump-reactions@2x.png") !important;
+  background-image:url("chrome-extension://__MSG_@@extension_id__/img/thai-reactions@2x.png") !important;
 }
 
 ._iuz {
-  background-image:url("chrome-extension://__MSG_@@extension_id__/img/trump-reactions.png") !important;
+  background-image:url("chrome-extension://__MSG_@@extension_id__/img/thai-reactions.png") !important;
+}
+
+._iuz + div div {
+  font-size: 0px !important;
+  height: 20px !important;
+}
+
+._iuz + div div::before{
+  font-size: 12px !important;
 }
