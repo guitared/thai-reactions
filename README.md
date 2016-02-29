@@ -1,4 +1,9 @@
-# Trump Reactions
-Replaces emojis in Facebook Reactions by Donald Trump pictures.
+# Thai Reactions
+Replaces emojis in Facebook Reactions by emoticons.
 
-![Trump Reactions screenshot](https://s3-eu-west-1.amazonaws.com/fgrante/trump_reaction_screenshot.png)
+## Installation
+1.goto chrome://extensions/
+2.enable Developer mode
+3.click "Load unpacked extension..."
+4.choose thai-reactions folder
+5.refresh facebook and enjoy new reactions!
